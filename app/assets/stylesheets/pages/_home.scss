@@ -1,0 +1,20 @@
+ .banner {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://image.freepik.com/fotos-gratis/ardosia-verde_1205-377.jpg?1);
+  height: 400px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-top: 5rem;
+}
+
+.text-banner{
+  color:white;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.div-banner{
+  justify-content: center;
+  padding: 7rem;
+}
