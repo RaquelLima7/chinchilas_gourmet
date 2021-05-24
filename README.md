@@ -1,24 +1,34 @@
-# README
+<h2 align="center"> Chinchilas Gourmet ❤️ <h2>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Link do deploy no Heroku](https://chinchilas-gourmet.herokuapp.com/).
 
-Things you may want to cover:
+<br>
 
-* Ruby version
+## 🎯 Como usuário pode-se criar um produto.
+<img src="01.gif" alt="criar_produto">
 
-* System dependencies
+<br>
+<br>
+<br>
 
-* Configuration
 
-* Database creation
+## 🎯 Como usuário comum pode-se apenas editar e deletar seu produto.
+<img src="02.gif" alt="editar_e_deletar_produto">
+<br>
+<img src="03.gif" alt="editar_e_deletar_produto">
 
-* Database initialization
+<br>
+<br>
+<br>
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🎯 Pode-se ver no perfil os produtos do usuário.
+<img src="04.gif" alt="perfil_ver_produtos">
 
-* Deployment instructions
+<br>
+<br>
+<br>
 
-* ...
+
+## 🎯 Como admin pode-se editar e deletar os produtos dos outros usuários.
+<img src="05.gif" alt="admin">
