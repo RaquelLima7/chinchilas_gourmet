@@ -5,9 +5,9 @@
 </div>
 
 <div class="container my-5">
-  <div class="d-flex justify-content-around">
+  <div class="row mt-5">
     <% @products.each do |product| %>
-      <div class="card-home">
+      <div class="col-lg-4 col-md-6 col-sm-12">
         <div class="card" style="width: 18rem;">
           <% if product.photo.present? %>
             <%= cl_image_tag product.photo.key, class: "card-img-top" %>
